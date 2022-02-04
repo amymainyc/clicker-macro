@@ -6,7 +6,7 @@ from pynput import mouse
   
   
 
-delay = 0.01
+delay = 0.05
 button = Button.left
 start_stop_key = KeyCode(char='1')
 stop_key = KeyCode(char='2')
